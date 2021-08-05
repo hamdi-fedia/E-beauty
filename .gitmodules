@@ -1,0 +1,6 @@
+[submodule "E-beauty_Front"]
+	path = E-beauty_Front
+	url = https://github.com/hamdi-fedia/E-beauty_Front.git
+[submodule "E-beauty_Back"]
+	path = E-beauty_Back
+	url = https://github.com/hamdi-fedia/E-beauty_Back.git
